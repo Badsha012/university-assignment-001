@@ -96,8 +96,9 @@ tr:nth-child(even) {
     padding: 20px;
 }
 
-.footer img{
+.footer img {
     width: 80px;
     display: block;
     margin: 10px auto;
+    border-radius: 50%;
 }
